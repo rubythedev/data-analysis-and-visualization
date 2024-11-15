@@ -30,17 +30,17 @@ This section highlights the visualizations generated from the concrete data anal
 ### **1. Pair Plot of Concrete Components**
 A pair plot showing the relationships between `ash`, `slag`, `strength`, and `water` in the dataset.
 
-![Pair Plot of Concrete Components](https://github.com/rubythedev/data-analysis-and-visualization/blob/main/images/fig1_pair_plot_concrete.png | width=400)
+<img src="https://github.com/rubythedev/data-analysis-and-visualization/blob/main/images/fig1_pair_plot_concrete.png" width="600">
 
 ### **2. Scatter Plot: Strength vs. Water**
 This scatter plot visualizes the relationship between the `strength` and `water` content in the concrete mixture.
 
-![Scatter Plot of Strength vs. Water](https://github.com/rubythedev/data-analysis-and-visualization/blob/main/images/fig2_scatter_strength_water.png | width=400)
+<img src="https://github.com/rubythedev/data-analysis-and-visualization/blob/main/images/fig2_scatter_strength_water.png" width="400">
 
 ### **3. Scatter Plot: Ash vs. Slag**
 A scatter plot comparing the `ash` and `slag` content in the concrete mixture.
 
-![Scatter Plot of Ash vs. Slag](https://github.com/rubythedev/data-analysis-and-visualization/blob/main/images/fig3_scatter_ash_slag.png | width=400)
+<img src="https://github.com/rubythedev/data-analysis-and-visualization/blob/main/images/fig3_scatter_ash_slag.png" width="400">
 
 ## 🛠️ Technologies & Skills
 
