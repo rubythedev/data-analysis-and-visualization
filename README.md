@@ -11,14 +11,14 @@ The **custom-made Data and Analysis class** is a robust framework for performing
 
 ## 🚀 Key Features
 ### `analysis.py`
-- **`Analysis` Class**: Performs statistical analysis and data visualizations on datasets.
+**`Analysis` Class**: Performs statistical analysis and data visualizations on datasets.
 - **Key Features**:
   - Computes key statistics: minimum, maximum, range, mean, variance, and standard deviation for selected data columns.
   - Generates visualizations using `matplotlib` (e.g., scatter plots, pair plots) to help in data interpretation.
   - Supports the creation of scatter plots to analyze relationships between independent and dependent variables.
 
 ### `data.py`
-- **`Data` Class**: Handles data loading and preprocessing from CSV files.
+**`Data` Class**: Handles data loading and preprocessing from CSV files.
 - **Key Features**:
   - Reads and parses CSV files into structured `numpy` arrays, ensuring proper handling of different data types (numeric, categorical, strings, dates).
   - Cleans and processes data to ensure it's ready for analysis, improving the quality and consistency of input data.
